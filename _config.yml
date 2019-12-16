@@ -76,6 +76,15 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+header:
+  overlay_image: /assets/images/cables.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Brett Sayles**](https://www.pexels.com/photo/white-and-blue-cables-2881229/)"
+  actions:
+    - label: "Download"
+      url: "https://github.com"
+
+
 footer:
   links:
     - label: "Twitter"
