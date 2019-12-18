@@ -34,7 +34,7 @@ permalink: /:categories/:title/
 paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-logo: "/assets/images/logo.png"
+
 
 
 include:
@@ -60,6 +60,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+logo: "/assets/images/logo.png"
 
 header:
   overlay_image: /assets/images/cables.jpg
