@@ -62,7 +62,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-logo: "/assets/images/logo.png"
+logo: "/assets/images/recap_logo.png"
 
 header:
   overlay_image: /assets/images/cables.jpg
