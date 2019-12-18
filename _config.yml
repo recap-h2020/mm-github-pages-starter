@@ -65,7 +65,7 @@ plugins:
 logo: "/assets/images/recap_logo.png"
 
 header:
-  overlay_image: /assets/images/cables.jpg
+  overlay_image: "/assets/images/cables.jpg"
   caption: "Photo credit: [**Brett Sayles**](https://www.pexels.com/photo/white-and-blue-cables-2881229/)"
   actions:
     - label: "Download"
