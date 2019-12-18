@@ -62,13 +62,6 @@ plugins:
 
 logo: "/assets/images/recap_logo.png"
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
 footer:
   links:
     - label: "Twitter"
@@ -89,3 +82,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
