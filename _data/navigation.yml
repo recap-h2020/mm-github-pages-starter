@@ -1,9 +1,17 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Home"
+    url: /home/
+  - title: "Getting Started"
+    url: /gettingstarted/
   - title: "About"
-    url: /about/
+    url: /About/
+  - title: "Help"
+    url: /help/
+  - title: "Splash Test"
+    url: /splash-page/
+  - title: "View on Github"
+    url: https://github.com/recap-h2020
+  - title: "Project Page"
+    url: https://recap-project.eu/
+    
+    
