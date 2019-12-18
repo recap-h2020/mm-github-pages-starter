@@ -73,6 +73,7 @@ header:
 
 
 footer:
+Text
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
