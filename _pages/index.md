@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/empty.png
     alt: "demo"
     title: "RECAP in action"
-    excerpt: "We offer guided insights into RECAP deployment and operation."
+    excerpt: "We demonstrate a RECAP deployment followed by examples for several typical usecases relevant to cloud computing."
     url: "/demo/"
     btn_class: "btn--primary"
     btn_label: "learn more.."      
