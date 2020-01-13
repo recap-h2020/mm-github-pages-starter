@@ -3,8 +3,10 @@ main:
     url: /gettingstarted/
   - title: "About"
     url: /about/
-  - title: "Help"
-    url: /help/
+  - title: "Data"
+    url: /data/
+  - title: "Demo"
+    url: /demo/
   - title: "View on Github"
     url: https://github.com/recap-h2020
   - title: "Project Page"
