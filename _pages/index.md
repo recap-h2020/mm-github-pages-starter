@@ -11,26 +11,26 @@ excerpt: >
   RECAP is a Horizon2020 project that provides novel methodologies, tools and an enabling workflow for automated infrastructure deployment, monitoring, and analytics that result in lower costs and better quality of service.
 feature_row:
   - image_path: /assets/images/lm.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    alt: "project page"
+    title: "Project Page"
+    excerpt: "The RECAP project page offers insights into the partners, the RECAP approach, as well as finishes deliverables."
+    url: "https://recap-project.eu/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "project page"
   - image_path: /assets/images/os.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    alt: "open data"
+    title: "Open Source Data"
+    excerpt: "RECAP open source over 30GB of real and artificial data traces available for research activities in cloud computing."
+    url: "/data/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "data"
   - image_path: /assets/images/dm.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    alt: "demo"
+    title: "RECAP in action"
+    excerpt: "We offer guided insights into RECAP deployment and operation."
+    url: "/demo/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Show me more"      
 ---
 
 {% include feature_row %}
