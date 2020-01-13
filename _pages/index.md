@@ -16,21 +16,21 @@ feature_row:
     excerpt: "The RECAP project page offers insights into the partners, the RECAP approach, as well as finishes deliverables."
     url: "https://recap-project.eu/"
     btn_class: "btn--primary"
-    btn_label: "project page"
+    btn_label: "learn more.."
   - image_path: /assets/images/os.png
     alt: "open data"
     title: "Open Source Data"
     excerpt: "RECAP open source over 30GB of real and artificial data traces available for research activities in cloud computing."
     url: "/data/"
     btn_class: "btn--primary"
-    btn_label: "data"
+    btn_label: "learn more.."
   - image_path: /assets/images/dm.png
     alt: "demo"
     title: "RECAP in action"
     excerpt: "We offer guided insights into RECAP deployment and operation."
     url: "/demo/"
     btn_class: "btn--primary"
-    btn_label: "Show me more"      
+    btn_label: "learn more.."      
 ---
 
 {% include feature_row %}
