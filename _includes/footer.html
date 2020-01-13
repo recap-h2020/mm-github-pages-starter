@@ -1,30 +1,9 @@
-<div class="grid__wrapper">
-  
+<div class="grid__wrapper">  
 	<div class="grid__item">
-    <div class="page__footer-follow">
-      <ul class="social-icons">
-        {% if site.data.ui-text[site.locale].follow_label %}
-          <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-        {% endif %}
-  
-        {% if site.footer.links %}
-          {% for link in site.footer.links %}
-            {% if link.label and link.url %}
-              <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-  
-          <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-        </ul>
-      </div>
+    <img src="/assets/images/eu.gif" align="right">
+  <p>The RECAP project received research funding from the European Union's HORIZON 2020 Framework Programme under grant agreement No. 732667</p>
+  </div>
     </div>
-
   <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 </div>
 
-<div class="feature__item ">
-
-<img src="/assets/images/eu.gif" align="right"/>
-<p>The RECAP project received research funding from the European Union's HORIZON 2020 Framework Programme under grant agreement No. 732667</p>
-</div>
