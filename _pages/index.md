@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/empty.png
     alt: "open data"
     title: "Open Source Data"
-    excerpt: "RECAP open source over 30GB of real and artificial data traces available for research activities in cloud computing."
+    excerpt: "RECAP open sourced over 30GB of real and artificial data traces available for research activities in cloud computing."
     url: "/data/"
     btn_class: "btn--primary"
     btn_label: "learn more.."
