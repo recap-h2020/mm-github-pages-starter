@@ -17,12 +17,12 @@ The vision of the networked society details the interconnection of a myriad of d
 
 > The RECAP project will go beyond the current state of the art and develop the next generation of cloud/edge/fog computing capacity provisioning and remediation via targeted research advances in cloud infrastructure optimisation, simulation and automation. Building on advanced machine learning, optimisation and simulation techniques, the RECAP project will advance the state of the art in:
 
-*The modelling of complex cloud applications and infrastructures via, e.g., the development of fine-grained and accurate application deployment and behaviour models for dynamic distributed cloud applications
-*Application and component-level quality of service models for cloud (application and infrastructure) systems
-*Automation of the creation of application and workload models, e.g., collecting data in a short time frame to support multiple orchestration systems focused on heterogeneous data centre infrastructures, creating and synchronising models for multiple clouds allocated in different geographic areas.
-*Data centre infrastructure optimisation systems including, e.g., improved scheduling systems, decentralized monitoring and load balancing systems, and system management and control tools
-*Simulation of large scale scenarios and cloud/edge/fog computing systems including, e.g., improved timings to reduce the time for simulations to support orchestration decisions, and detailed simulation models to obtain accurate measurements of storage, file systems, networks.
-*Remediation of complex distributed systems and networks, e.g, automate the process of detection and correction of failures at network and infrastructure levels while maintaining QoS.
+* The modelling of complex cloud applications and infrastructures via, e.g., the development of fine-grained and accurate application deployment and behaviour models for dynamic distributed cloud applications
+* Application and component-level quality of service models for cloud (application and infrastructure) systems
+* Automation of the creation of application and workload models, e.g., collecting data in a short time frame to support multiple orchestration systems focused on heterogeneous data centre infrastructures, creating and synchronising models for multiple clouds allocated in different geographic areas.
+* Data centre infrastructure optimisation systems including, e.g., improved scheduling systems, decentralized monitoring and load balancing systems, and system management and control tools
+* Simulation of large scale scenarios and cloud/edge/fog computing systems including, e.g., improved timings to reduce the time for simulations to support orchestration decisions, and detailed simulation models to obtain accurate measurements of storage, file systems, networks.
+* Remediation of complex distributed systems and networks, e.g, automate the process of detection and correction of failures at network and infrastructure levels while maintaining QoS.
 
 ### Objectives
 
