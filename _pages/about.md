@@ -1,7 +1,46 @@
 ---
 permalink: /about/
-title: "About"
+title: "RECAP"
 ---
+
+## About the RECAP project
+
+RECAP will develop a radically novel concept in the provision of cloud services,
+where services are elastically instantiated and provisioned close to the users that
+actually need them via self-configurable cloud computing systems.
+
+### Idea and base assumptions
+
+In the past decade, data centres have seen historically unrivalled development in scale, automation, and energy efficiency for ICT resource provisioning. Yet even with this unprecedented scale of technological development, cloud systems are still pushing the boundaries of what data centres can deliver in terms of reliable ICT capacity and energy efficiency, and the coming challenges from the Internet of Things (IoT) and the networked society are placing increasingly high demands on intelligent automation and adaptive resource provisioning as clouds grow out and between data centres.
+
+The vision of the networked society details the interconnection of a myriad of devices ranging from distributed hand- held devices to (semi-)autonomous vehicles and robots (operating in manufacturing industry or on behalf of ordinary citizens) all connected into cloud systems. This vision brings new challenges for dependable infrastructure, automation and security. While data centres are some of today’s most advanced cyber-physical infrastructures, further research is needed to advance the state of the art, in order to fully leverage the resource management automation and optimisation potential.
+
+> The RECAP project will go beyond the current state of the art and develop the next generation of cloud/edge/fog computing capacity provisioning and remediation via targeted research advances in cloud infrastructure optimisation, simulation and automation. Building on advanced machine learning, optimisation and simulation techniques, the RECAP project will advance the state of the art in:
+
+*The modelling of complex cloud applications and infrastructures via, e.g., the development of fine-grained and accurate application deployment and behaviour models for dynamic distributed cloud applications
+*Application and component-level quality of service models for cloud (application and infrastructure) systems
+*Automation of the creation of application and workload models, e.g., collecting data in a short time frame to support multiple orchestration systems focused on heterogeneous data centre infrastructures, creating and synchronising models for multiple clouds allocated in different geographic areas.
+*Data centre infrastructure optimisation systems including, e.g., improved scheduling systems, decentralized monitoring and load balancing systems, and system management and control tools
+*Simulation of large scale scenarios and cloud/edge/fog computing systems including, e.g., improved timings to reduce the time for simulations to support orchestration decisions, and detailed simulation models to obtain accurate measurements of storage, file systems, networks.
+*Remediation of complex distributed systems and networks, e.g, automate the process of detection and correction of failures at network and infrastructure levels while maintaining QoS.
+
+### Objectives
+
+#### Publication of annotated workload traces and artificial workload generators
+
+To support development and experimentation with new applications and resource management systems for cloud, edge, and fog computing systems, RECAP provides an annotated fine-grained workload trace data that correlate application workloads and resource load levels to capture the relationship between applications and resources and an artificial workload generator models that can be used to dynamically derive new parameterized workloads that retain key statistical properties of the base workload traces.
+
+#### Near real-time simulation-based decision support for heterogeneous distributed clouds
+
+The complexity and heterogeneity of distributed edge, fog, and cloud computing environments surpasses the capabilities human operators. To abstract the complexities of these environments and provide decision and control support for application and resource administration, RECAP will provide near real-time simulation support for applications and application subsystems, infrastructure resources and resource management systems and experimentation with models and validation of project results.
+
+#### Resource- and energy-efficient provisioning of infrastructure resource capacity
+
+When provisioning resources to applications, it is important to both accurately capture application capacity requirements and to identify the most suitable resources to be allocated. RECAP provides infrastructure optimization models and mechanisms that determine what capacity is needed when and where, as well as tools to enact these decisions.
+
+#### QoS-aware orchestration and remediation of critical applications and services
+
+To achieve robust orchestration and remediation of critical applications, i.e. applications with strict QoS requirements, in distributed highly heterogeneous resource environments, RECAP provides a modelling framework coupled with innovative new self-adaptivity mechanisms that help applications to intelligently take continuous corrective actions to compensate for volatility and heterogeneity in environments.
 
 ## Partners
 
