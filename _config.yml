@@ -24,7 +24,6 @@ github_username: username
 minimal_mistakes_skin: mint
 
 search: true
-toc: true
 layout: splash
 
 # Build settings
@@ -82,6 +81,7 @@ defaults:
       type: pages
     values:
       layout: single
+      toc: true
       author_profile: true
       
 category_archive:
