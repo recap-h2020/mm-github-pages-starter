@@ -13,13 +13,13 @@ feature_row:
   - image_path: /assets/images/empty.png
     alt: "project page"
     title: "Project Page"
-    excerpt: "The RECAP project page offers insights into the partners, the RECAP approach, as well as finishes deliverables."
+    excerpt: "The RECAP project page offers insights into the partners, the RECAP approach, as well as finished deliverables."
     url: "https://recap-project.eu/"
     btn_class: "btn--primary"
     btn_label: "learn more.."
   - image_path: /assets/images/empty.png
     alt: "open data"
-    title: "Open Source Data"
+    title: "Open Data"
     excerpt: "RECAP open sourced over 30GB of real and artificial data traces available for research activities in cloud computing."
     url: "/data/"
     btn_class: "btn--primary"
