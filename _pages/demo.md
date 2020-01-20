@@ -3,7 +3,7 @@ permalink: /demo/
 title: "Demo"
 ---
 
-## Demo Scenarion I
+## Demo Scenario I
 
 This video shows the use of the RECAP CLI on an OpenStack infrastructure.
 The setup process of a RECAP installation is shown.
