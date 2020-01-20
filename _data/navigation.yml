@@ -1,6 +1,6 @@
 main:
-  - title: "Getting Started"
-    url: /gettingstarted/
+  #- title: "Getting Started"
+  #  url: /gettingstarted/
   - title: "About"
     url: /about/
   - title: "Data"
