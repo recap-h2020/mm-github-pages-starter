@@ -11,7 +11,11 @@ On the left side the network topology in OpenStack, the right upper side display
 
 <iframe src="https://www.youtube.com/embed/bFDbdDD6Si4" width="560" height="315" frameborder="0"> </iframe> 
 
-## Demo Number 2
+## Demo Scenario II
 
-<iframe src="https://www.youtube.com/embed/W-EDBu0BNKM" width="560" height="315" frameborder="0"> </iframe> 
+Assuming a RECAP installation from the first demo scenario (https://youtu.be/bFDbdDD6Si4). This demo shows the setup of RECAP components for monitoring the instances and the landscape of the RECAP installation.
 
+The left side shows the Rancher interface, and further on the Grafana dashboard as well as the neo4j Landscaper displaying the infrastracture.
+The right lower side shows the setup progress via the command line.
+
+<iframe src="https://www.youtube.com/embed/hYrTaZ_YaGE" width="560" height="315" frameborder="0"> </iframe> 
