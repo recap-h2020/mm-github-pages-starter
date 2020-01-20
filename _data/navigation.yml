@@ -7,8 +7,8 @@ main:
     url: /data/
   - title: "Demo"
     url: /demo/
-  - title: "View on Github"
-    url: https://github.com/recap-h2020
+  #- title: "View on Github"
+  #  url: https://github.com/recap-h2020
   - title: "Project Page"
     url: https://recap-project.eu/
     
