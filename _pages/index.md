@@ -5,8 +5,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/cables.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/gettingstarted/"
+    - label: "<i class='fas fa-download'></i> learn more.."
+      url: "/about/"
 excerpt: >
   RECAP is a Horizon2020 project that provides novel methodologies, tools and an enabling workflow for automated infrastructure deployment, monitoring, and analytics that result in lower costs and better quality of service.
 feature_row:
