@@ -37,3 +37,15 @@ Specifically, this shows data loading and calcuation of an optimal model for the
 This demonstration shows training progress of the fastautoml library [fastautoml library](https://github.com/rleiva/fastautoml) for a classification task on the MNIST dataset. The upper part shows the network architecture, while the lower part displays the training and validation scores.
 
 <iframe src="https://www.youtube.com/embed/E1R1X_2EcBA" width="560" height="315" frameborder="0"> </iframe> 
+
+## RECAP Modelling and Autoscaling
+
+This is a two-part demonstration that provides an overview of the modelling and application optimization capabilities of the RECAP runtime system. The demo showcases a data-driven workflow for construction of a city-scale model set integrating geographical information (street maps and structures), population census data, network infrastructure models (physical and cellular networks); as well as application (structure and deployment) data to provide a mathematical foundation for simulation-based experimentation and optimization of systems.
+
+### Part I
+
+<iframe src="https://www.youtube.com/embed/b8GvTZJTaq4" width="560" height="315" frameborder="0"> </iframe> 
+
+### Part II
+
+<iframe src="https://www.youtube.com/embed/3WmczBinUMs" width="560" height="315" frameborder="0"> </iframe> 
