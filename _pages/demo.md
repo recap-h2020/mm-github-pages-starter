@@ -49,3 +49,10 @@ This is a two-part demonstration that provides an overview of the modelling and 
 ### Part II
 
 <iframe src="https://www.youtube.com/embed/3WmczBinUMs" width="560" height="315" frameborder="0"> </iframe> 
+
+## Dockerized OpenStack Demonstration
+
+This video demonstrates the setup process of an OpenStack in a Dockerized environment in action.
+
+<iframe src="https://www.youtube.com/embed/uwX7eXjTJxA" width="560" height="315" frameborder="0"> </iframe> 
+
