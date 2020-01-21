@@ -56,3 +56,13 @@ This video demonstrates the setup process of an OpenStack in a Dockerized enviro
 
 <iframe src="https://www.youtube.com/embed/uwX7eXjTJxA" width="560" height="315" frameborder="0"> </iframe> 
 
+## Synthetic Data Generation
+### Generative Adversarial Networks
+
+This video shows how Generative Adversarial Networks (GANs) are able to learn the underlying original data fidelity throughout several epochs.
+
+RECAP has published an extensive dataset of [artificial and real workloads](https://recap-h2020.github.io/data/).
+
+<iframe src="https://www.youtube.com/embed/ebDPHBjaamo" width="560" height="315" frameborder="0"> </iframe> 
+
+
