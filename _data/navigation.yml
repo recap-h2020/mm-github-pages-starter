@@ -9,6 +9,8 @@ main:
     url: /demo/
   #- title: "View on Github"
   #  url: https://github.com/recap-h2020
+  - title: "Contact"
+    url: /contact/
   - title: "Project Page"
     url: https://recap-project.eu/
     
