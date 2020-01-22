@@ -65,4 +65,20 @@ RECAP has published an extensive dataset of [artificial and real workloads](http
 
 <iframe src="https://www.youtube.com/embed/ebDPHBjaamo" width="560" height="315" frameborder="0"> </iframe> 
 
+## Smart City Use Case Demonstration
+
+This demonstration presents A fog computing and large scale IoT scenario for supporting Smart Cities.
+
+Goals:
+* Models to distribute data and computational resources in the proximity of end users.
+* Improvements in system management, efficiency and scalability over a fog computing architecture.
+* IT automation for deployments.
+* Support for large scale IoT scenarios.
+* Edge/Fog/Cloud integrated architectures.
+* Complete IoT Platform design.
+* Trustworthiness of IoT systems.
+
+<iframe src="https://www.youtube.com/embed/SQRe-_ZxS_k " width="560" height="315" frameborder="0"> </iframe> 
+
+
 
