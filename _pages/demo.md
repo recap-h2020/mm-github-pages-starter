@@ -80,5 +80,11 @@ Goals:
 
 <iframe src="https://www.youtube.com/embed/SQRe-_ZxS_k " width="560" height="315" frameborder="0"> </iframe> 
 
+## Optimised Placement & Infrastructure Planning
+
+The demo outlines the programmatic and analytical process for infrastructure optimisation i.e. short-term: mapping VNF service placements in the network under different scenarios to physical resources, and/or longer-term: requirement for and placement of physical assets in a network to meet predicted demand, in other words capacity planning.
+
+<iframe src="https://www.youtube.com/embed/JNHB6sJYBZY" width="560" height="315" frameborder="0"> </iframe> 
+
 
 
